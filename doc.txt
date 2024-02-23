@@ -1,0 +1,36 @@
+Buenos días @all
+
+Quienes levantaron la manita para el curso de Docker: 
+
+@francisco.campuzano
+@alonso.cortes
+@nadia.neri
+@valeria.mendoza
+@luis.diaz
+@eric.torres
+@mariana.vallejo
+@patricia.munoz
+@magaly.ruiz
+@jesus.gomez
+@elizabeth.ortiz
+@diana.minor
+@eric.torres
+@maria.flores
+@paulina.pradel
+@andres.martinez
+
+hoy iniciamos el curso. :)
+
+Les voy a pedir de favor que se vayan suscribiendo a estos dos sitios:
+
+https://labs.play-with-docker.com/
+
+https://hub.docker.com
+
+Nos vemos a las 16:00 hrs por esta dirección:
+
+https://meet.google.com/fco-fxjz-rbj
+
+Saludos.
+
+Pdta. Si no levantaste la manita, puedes estar con nosotres, no hay problema.
