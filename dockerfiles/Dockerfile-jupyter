@@ -1,0 +1,17 @@
+FROM continuumio/miniconda3:latest
+
+# Instalar Jupyter Notebook y otros paquetes necesarios
+RUN conda install -y jupyter
+
+# Crear un directorio de trabajo
+WORKDIR /app
+
+# Copiar el contenido actual al contenedor en el directorio de trabajo
+COPY . /app
+
+# Exponer el puerto 8888 para acceder a Jupyter Notebook
+EXPOSE 8888
+
+# Comando para iniciar Jupyter Notebook cuando se inicie el contenedor
+CMD ["jupyter", "notebook", "--ip='*'", "--port=8888", "--no-browser", "--allow-root"]
+

@@ -1,0 +1,8 @@
+FROM rocker/rstudio:4.0.2
+
+# Copiar tus scripts R o cualquier otro archivo necesario
+COPY jacobi.R /home/jacobi.R
+
+# Ejecutar RStudio al iniciar el contenedor
+CMD ["/init"]
+
